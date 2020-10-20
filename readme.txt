@@ -3,7 +3,7 @@ Contributors: hallowichig0
 Tags: admin, administration, comment, comments, content, contents, excerpt, excerpts, feed, feeds, html, multisite, page, pages, plugin, plugins, post, posts, template, templates, text, title, wp_make_link_relative, widget, widgets, wpmu, writing
 Requires at least: 3.8
 Tested up to: 5.5
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,3 +61,7 @@ URLs in RSS feed are also replaced to relative URLs with this plugin, this could
 == Changelog ==
 = 1.0.0 =
 * Initial Release.
+
+= 1.0.1 =
+* Added license.
+* Change composer licence to GPLv2.

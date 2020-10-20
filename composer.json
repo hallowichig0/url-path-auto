@@ -1,6 +1,6 @@
 {
   "name": "hallowichig0/url-path-auto",
-  "license": "MIT",
+  "license": "GPLv2 or later",
   "description": "URL Path Auto applies wp_make_link_relative function to links (posts, categories, pages and etc.) to convert them to relative URLs. Useful for developers when debugging local WordPress.",
   "homepage": "https://github.com/hallowichig0/url-path-auto",
   "authors": [
