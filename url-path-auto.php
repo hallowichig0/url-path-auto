@@ -3,7 +3,7 @@
  * Plugin Name: URL Path Auto
  * Plugin URI: https://wordpress.org/plugins/url-path-auto/
  * Description: URL Path Auto applies wp_make_link_relative function to links (posts, categories, pages and etc.) to convert them to relative URLs. Useful for developers when debugging local WordPress.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Jayson Garcia (Github - hallowichig0)
  * Author URI: http://jegson.herokuapp.com
  * License: GPLv2 or later
