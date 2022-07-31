@@ -5,7 +5,7 @@
  * Description: URL Path Auto applies wp_make_link_relative function to links (posts, categories, pages and etc.) to convert them to relative URLs. Useful for developers when debugging local WordPress.
  * Version: 1.0.1
  * Author: Jayson Garcia (Github - hallowichig0)
- * Author URI: http://jegson.herokuapp.com
+ * Author URI: https://hallowichig0.github.io
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
